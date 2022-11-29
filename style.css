@@ -1,0 +1,13 @@
+body {
+  margin: 40px;
+  text-align: center;
+  font-family: monospace;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(235,229,216,1) 0%, rgba(160,130,114,1) 90% );
+}
+
+.header1 {
+  border: 3px solid;
+  border-color: #8E0303;
+  padding: 10px;
+  background-color: #EBE5D8;
+}
